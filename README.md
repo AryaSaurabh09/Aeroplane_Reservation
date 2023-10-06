@@ -66,5 +66,5 @@ Through this project I learned how to:
 
 ## Contact
 
-For any queries, feel free to reach out to me at xyz@example.com
+For any queries, feel free to reach out to me at saurabharya2421@gmail.com
 ```
